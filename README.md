@@ -20,7 +20,7 @@ To use the app, type a name of the city and click on search/press Enter or else 
 - Responsive for every screen size.
 
 ## Live Link
-https://sparkly-cactus-3cd1a2.netlify.app/
+https://easyfollow.netlify.app/
 
 ## snapshots:
 
